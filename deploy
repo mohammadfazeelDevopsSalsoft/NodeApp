@@ -1,4 +1,4 @@
-sh root@8.9.31.247 <  cd /test 
+sh root@8.9.31.247 <  cd /DemoNodeProject 
  git pull      
  npm install --production      
  pm2 restart all
