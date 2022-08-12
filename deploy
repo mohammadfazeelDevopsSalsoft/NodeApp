@@ -1,6 +1,0 @@
-ssh root@8.9.31.247 <cd /DemoNodeProject 
- git pull           https://github.com/mohammadfazeelDevopsSalsoft/DemoNodeProject 
- npm install --production      
- pm2 restart all
- exit      
-EOF
